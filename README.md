@@ -1,44 +1,42 @@
-🏀 NBA Players Season 2023-2024 Dataset
-Welcome to the NBA Players Season 2023-2024 dataset repository! This dataset is your gateway to deep dive into the performance and statistics of NBA players for the 2023-2024 season. Whether you're a data analyst, sports enthusiast, or a machine learning practitioner, this dataset offers a comprehensive view of player stats to fuel your analysis and predictions.
+🏀 NBA Players Season 2023-2024 Analysis
+Author: [Chandra Driastama]
 
-📑 Table of Contents
--Introduction
+📝 Overview
+The NBA Players Season 2023-2024 Analysis project aims to deliver an in-depth analysis of player statistics from the NBA's 2023-2024 season. By analyzing various performance metrics such as Usage Percentage (USG%), Turnover Percentage (TO%), and more, this project seeks to uncover meaningful insights that can be valuable for coaches, analysts, and basketball enthusiasts. The analysis is structured to help optimize player performance, identify key trends, and enhance team strategies.
 
--Dataset Overview
+🌟 Features
+Descriptive Analysis: Comprehensive breakdown of player data to understand overall performance trends in the 2023-2024 season.
+Correlation Analysis: Insights into relationships between various performance metrics like USG%, TO%, and shooting percentages.
+Player Comparison: Compare key players across different teams and positions based on their performance metrics.
+Outlier Detection: Identification of players with exceptional or unusual statistics.
+Visualizations: Interactive visualizations to provide a clear understanding of the data and insights.
+🎯 Objectives
+Optimize Player Performance: Provide actionable insights to help teams and coaches optimize player usage and strategies.
+Identify Key Trends: Analyze data to uncover trends in player performance throughout the season.
+Enhance Team Strategies: Use data-driven insights to inform team decisions and improve overall game strategies.
+🛠 Implementation
+1. Data Collection
+Source: The data used in this analysis is sourced from official NBA statistics and verified sports analytics databases.
+Metrics: Key metrics include Usage Percentage (USG%), Turnover Percentage (TO%), Points per Game (PPG), Assists per Game (APG), and more.
+2. Data Analysis
+Tools: Python for data cleaning, analysis, and initial visualizations.
+Steps:
+Load and clean the dataset.
+Perform exploratory data analysis (EDA) to understand the data.
+Analyze key metrics such as USG%, TO%, shooting percentages, and more.
+Identify outliers and interesting trends in player performance.
+3. Visualization
+Tool: Tableau and Matplotlib for creating interactive dashboards and visualizations.
+Output: Visual representations of data to aid in intuitive understanding and decision-making.
+💻 Technologies Used
+Python: For data cleaning and initial analysis.
+Tableau: To create interactive dashboards and visualizations.
+Matplotlib/Seaborn: For detailed visual analysis within Python.
+GitHub: For version control and collaboration.
+🏁 Getting Started
+Prerequisites
+Ensure you have the following installed:
 
--Key Features
-
--Getting Started
-
--Usage Examples
-
--Visual Insights
-
--Contribution Guidelines
-
--License
-
--Connect With Us
-
-📖 Introduction
-This dataset encapsulates the NBA 2023-2024 season player statistics, offering a detailed view into player usage, efficiency, scoring, and much more. It's a perfect resource for anyone looking to explore trends, correlations, and insights within professional basketball.
-
-🗂 Dataset Overview
-Source: Official NBA databases and verified statistical platforms.
-Format: Jupyter Notebook (.ipynb) that includes both data and initial analysis.
-Scope: From basic player information to advanced metrics such as Usage Percentage (USG%) and Turnover Percentage (TO%).
-🌟 Key Features
-Here's what you can expect from this dataset:
-
-Player Name & Team: Identify and analyze individual players and their respective teams.
-Advanced Metrics:
-Usage Percentage (USG%): Indicates the player's involvement in offensive plays.
-Turnover Percentage (TO%): Represents how often a player turns over the ball.
-Performance Indicators:
-Points per Game (PPG)
-Assists per Game (APG)
-Rebounds per Game (RPG)
-Efficiency Metrics:
-Field Goal Percentage (FG%)
-Three-Point Percentage (3P%)
-Free Throw Percentage (FT%)
+Python 3.11.7
+Jupyter Notebook or any Python IDE
+Tableau (for advanced visualizations)
