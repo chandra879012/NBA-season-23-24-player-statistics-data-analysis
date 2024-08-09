@@ -1,5 +1,5 @@
 🏀 NBA Players Season 2023-2024 Analysis
-![Airbnb Listings Bangkok](https://github.com/chandra879012/Airbnb-Capstone-project-2/blob/main/Orange%20Simple%20Vacation%20Instant%20Booking%20Application%20Facebook%20Ad.png)
+![Airbnb Listings Bangkok](https://github.com/chandra879012/NBA-season-23-24-player-statistics-data-analysis/blob/main/Black%20and%20Yellow%20Paper%20Basketball%20Maximalist%20Sports%20YouTube%20Banner.png)
 
 Author: [Chandra Driastama]
 
